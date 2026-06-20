@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Renad Ahmed</h1>
 
 <h3 align="center">🐍 Python Developer | 🌐 Front-End Developer | 🤖 AI Enthusiast</h3>
